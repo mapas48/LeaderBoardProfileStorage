@@ -5,6 +5,7 @@ Este sistema gestiona un Leaderboard personalizado en Roblox usando ProfileStore
 🧠 Este README fue generado con ayuda de inteligencia artificial (IA).
 
 ✨ Siéntete libre de mejorar el código, adaptarlo o convertirlo en un sistema de leaderboard global (entre servidores) utilizando soluciones como DataStore globales o servicios externos (como Firebase, PlayFab, etc.). Actualmente, este leaderboard se basa en los datos de sesión (ProfileStore local al servidor).
+
 📁 Archivos involucrados
 1. LeaderBoard.lua
 Módulo encargado de ordenar y mostrar los jugadores en la tabla.
