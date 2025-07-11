@@ -1,5 +1,6 @@
 🎯 Propósito
 Este sistema gestiona un Leaderboard personalizado en Roblox usando ProfileStore para mostrar las estadísticas de los jugadores (Coins, Rebirths y Speed) junto con su avatar, nombre y valor formateado (K, M, B). También controla la posición de cada entrada visualmente en el ScrollingFrame.
+
 ⚠️ Nota importante
 🧠 Este README fue generado con ayuda de inteligencia artificial (IA).
 
